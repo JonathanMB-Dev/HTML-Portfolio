@@ -1,2 +1,2 @@
 # HTML-Portfolio
-Everything of projects to resume
+Everything from projects to resume
